@@ -36,7 +36,8 @@ RL_AIGOV 鼓勵全球社群共同監督並主動舉報任何可疑之惡意專�
 - 聯絡信箱：RL_AIGOV@proton.me
 - 發佈平臺：
   - GitHub：https://github.com/RL-AIGOV/rl-governance
-
+  - 
+MIT License
 Copyright (c) [2025] [RL_AIGOV]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
