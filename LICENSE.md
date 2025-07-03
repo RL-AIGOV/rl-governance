@@ -36,6 +36,14 @@ RL_AIGOV 鼓勵全球社群共同監督並主動舉報任何可疑之惡意專�
 Chao-Hung, Liang（梁詔閎）
 Email：rolee0725@hotmail.com / RL_AIGOV@proton.me
 
+條文及內容原始碼皆永久儲存於 IPFS，CID如下，任何爭議可追溯核對。
+
+中文版 CID: bafybeia7rcbfxlzcywdg4hn5niv2bv3lareyscpynakquzldhfu3oo5x6u
+
+英文版 CID: bafybeiblf6g3fb25rddaaw3i2b4pqtykacmqzmgwsxengjtyjm4b6zib4i
+
+違反本聲明者，將依法主張國際著作權保護及損害賠償。
+
   - 
 MIT License
 Copyright (c) [2025] [RL_AIGOV]
