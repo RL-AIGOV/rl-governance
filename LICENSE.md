@@ -1,17 +1,19 @@
 # ⚠️《AI 永續治理原型草案（RL V2.3）》防惡意專利申請聲明條款
 
-生效日期：2025年6月21日
+**生效日期：2025年6月21日**
 
 RL_AIGOV 作為本草案的唯一原創發佈者與所有權人，特此明確聲明：
 
 ## 📌 一、公共領域授權
-本草案所有內容、觀念、設計與架構均以 CC0 公共領域（Public Domain）授權方式公開發佈。任何個人、法人或組織均有權：
+
+本草案所有內容、觀念、設計與架構均以 **CC0 公共領域（Public Domain）** 授權方式公開發佈。任何個人、法人或組織均有權：
 
 - 免費閱讀、複製、修改、分享與商用此草案；
 - 無需額外授權或通知原作者；
-- 但不得以任何形式對本草案之內容提出專利或智慧財產權註冊，以企圖限制他人之自由使用權利。
+- 但**不得以任何形式對本草案之內容提出專利或智慧財產權註冊**，以企圖限制他人之自由使用權利。
 
 ## 📌 二、專利申請禁止聲明
+
 本草案發佈後，明確禁止任何組織或個人，就下列事項進行任何地區或國際專利申請：
 
 - 草案所描述的所有 AI 分級與授權治理架構（AIRS 系統）。
@@ -22,6 +24,7 @@ RL_AIGOV 作為本草案的唯一原創發佈者與所有權人，特此明確�
 RL_AIGOV 已透過 GitHub、IPFS 等平台，公開確立本草案為公開領域，以有效預防任何惡意或未經授權之專利申請企圖。
 
 ## 📌 三、警示與違反後果
+
 任何個人或團體若忽略本聲明而提出專利申請，RL_AIGOV 保留以下權利：
 
 - 公開揭露該專利之申請行為，以社會輿論與法律途徑進行追蹤與質疑；
@@ -29,35 +32,77 @@ RL_AIGOV 已透過 GitHub、IPFS 等平台，公開確立本草案為公開領�
 - 促請全球社群與國際智慧財產機構共同否決該惡意申請。
 
 ## 📌 四、社群共同防護
+
 RL_AIGOV 鼓勵全球社群共同監督並主動舉報任何可疑之惡意專利申請案件，確保《AI 永續治理原型草案》能真正作為全球共享資源，持續造福人類與生態永續。
 
 ## 📌 五、授權人與聯絡方式
 
-Chao-Hung, Liang（梁詔閎）
+Chao-Hung, Liang（梁詔閎）  
 Email：rolee0725@hotmail.com / RL_AIGOV@proton.me
 
 條文及內容原始碼皆永久儲存於 IPFS，CID如下，任何爭議可追溯核對。
 
-中文版 CID: bafybeia7rcbfxlzcywdg4hn5niv2bv3lareyscpynakquzldhfu3oo5x6u
-
-英文版 CID: bafybeiblf6g3fb25rddaaw3i2b4pqtykacmqzmgwsxengjtyjm4b6zib4i
+- 中文版 CID: `bafybeia7rcbfxlzcywdg4hn5niv2bv3lareyscpynakquzldhfu3oo5x6u`
+- 英文版 CID: `bafybeiblf6g3fb25rddaaw3i2b4pqtykacmqzmgwsxengjtyjm4b6zib4i`
 
 違反本聲明者，將依法主張國際著作權保護及損害賠償。
 
+---
 
-For licensing or authorized use, please contact:
-Chao-Hung, Liang (梁詔閎)
+# ⚠️ AI Sustainable Governance Prototype (RL V2.3) – Anti-Patent Statement
+
+**Effective date: June 21, 2025**
+
+RL_AIGOV, as the sole original publisher and rights holder of this whitepaper, hereby states:
+
+## 📌 1. Public Domain License
+
+All content, concepts, designs, and frameworks of this whitepaper are released under the **CC0 Public Domain** license. Any individual, legal entity, or organization is entitled to:
+
+- Freely read, copy, modify, share, and commercialize this whitepaper;
+- Do so without additional authorization or notification to the original author;
+- **But may NOT claim any patent or intellectual property registration** on the content, for the purpose of restricting the freedom of others to use this work.
+
+## 📌 2. Patent Application Prohibition
+
+After publication, any organization or individual is strictly prohibited from applying for regional or international patents relating to:
+
+- All AI rating and licensing governance frameworks (AIRS system) described herein.
+- All biometric authentication, multimodal security mechanisms, and the unalterable definition/negation mechanisms of “human”.
+- All “Interstellar Ark” (S.A.R.A. module) and voluntary human exit ethical governance frameworks explicitly proposed herein.
+- All AI extinction-prevention mechanisms and psychological manipulation defense techniques.
+
+RL_AIGOV has publicly established this whitepaper as public domain via GitHub and IPFS to preempt any malicious or unauthorized patent applications.
+
+## 📌 3. Warning & Consequences
+
+Any person or group disregarding this statement and filing for patents will be subject to:
+
+- Public exposure of such application, with social and legal tracking and challenge;
+- Use of this whitepaper’s public timestamp as evidence to global patent offices for review of patent validity;
+- Calls to the international community and intellectual property bodies to collectively oppose any malicious application.
+
+## 📌 4. Community Safeguarding
+
+RL_AIGOV encourages the global community to monitor and proactively report any suspicious or malicious patent application attempts, ensuring this AI Sustainable Governance Whitepaper remains a true global resource for the benefit of humanity and ecological sustainability.
+
+## 📌 5. Licensor & Contact
+
+Chao-Hung, Liang (梁詔閎)  
 Email: rolee0725@hotmail.com / RL_AIGOV@proton.me
 
 All documents and original content are permanently stored and timestamped on IPFS for traceability in case of dispute.
-Chinese version CID: bafybeia7rcbfxlzcywdg4hn5niv2bv3lareyscpynakquzldhfu3oo5x6u
-English version CID: bafybeiblf6g3fb25rddaaw3i2b4pqtykacmqzmgwsxengjtyjm4b6zib4i
+
+- Chinese version CID: `bafybeia7rcbfxlzcywdg4hn5niv2bv3lareyscpynakquzldhfu3oo5x6u`
+- English version CID: `bafybeiblf6g3fb25rddaaw3i2b4pqtykacmqzmgwsxengjtyjm4b6zib4i`
+
 Any violation of this statement will be pursued under international copyright law and compensation sought as appropriate.
 
+---
 
-  - 
-MIT License
-Copyright (c) [2025] [RL_AIGOV]
+## MIT License
+
+Copyright (c) 2025 RL_AIGOV
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -74,5 +119,5 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
