@@ -44,6 +44,17 @@ Email：rolee0725@hotmail.com / RL_AIGOV@proton.me
 
 違反本聲明者，將依法主張國際著作權保護及損害賠償。
 
+
+For licensing or authorized use, please contact:
+Chao-Hung, Liang (梁詔閎)
+Email: rolee0725@hotmail.com / RL_AIGOV@proton.me
+
+All documents and original content are permanently stored and timestamped on IPFS for traceability in case of dispute.
+Chinese version CID: bafybeia7rcbfxlzcywdg4hn5niv2bv3lareyscpynakquzldhfu3oo5x6u
+English version CID: bafybeiblf6g3fb25rddaaw3i2b4pqtykacmqzmgwsxengjtyjm4b6zib4i
+Any violation of this statement will be pursued under international copyright law and compensation sought as appropriate.
+
+
   - 
 MIT License
 Copyright (c) [2025] [RL_AIGOV]
