@@ -32,10 +32,10 @@ RL_AIGOV 已透過 GitHub、IPFS 等平台，公開確立本草案為公開領�
 RL_AIGOV 鼓勵全球社群共同監督並主動舉報任何可疑之惡意專利申請案件，確保《AI 永續治理原型草案》能真正作為全球共享資源，持續造福人類與生態永續。
 
 ## 📌 五、授權人與聯絡方式
-- 授權發佈者（匿名）：RL_AIGOV
-- 聯絡信箱：RL_AIGOV@proton.me
-- 發佈平臺：
-  - GitHub：https://github.com/RL-AIGOV/rl-governance
+
+Chao-Hung, Liang（梁詔閎）
+Email：rolee0725@hotmail.com / RL_AIGOV@proton.me
+
   - 
 MIT License
 Copyright (c) [2025] [RL_AIGOV]
